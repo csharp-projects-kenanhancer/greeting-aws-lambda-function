@@ -7,15 +7,15 @@ namespace greeting_aws_lambda_function;
 
 public class Function
 {
-    
+
     /// <summary>
-    /// A simple function that takes a string and does a ToUpper
+    /// A simple function that takes a string and generate a greeting message
     /// </summary>
     /// <param name="input"></param>
     /// <param name="context"></param>
     /// <returns></returns>
     public string FunctionHandler(string input, ILambdaContext context)
     {
-        return input.ToUpper();
+        return $"Hello {input}";
     }
 }
