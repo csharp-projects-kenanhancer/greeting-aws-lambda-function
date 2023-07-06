@@ -1,4 +1,10 @@
-# AWS Lambda Empty Function Project
+# ![](assets/lambda.png) Greeting AWS Lambda Function
+
+## Requirements
+
+- [AWS CLI](https://aws.amazon.com/cli/)
+- [AWS SAM](https://aws.amazon.com/serverless/sam/)
+- .NET 6
 
 This starter project consists of:
 * Function.cs - class file containing a class with a single function handler method
