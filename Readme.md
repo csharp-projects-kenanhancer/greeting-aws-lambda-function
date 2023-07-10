@@ -1,5 +1,9 @@
 # ![](assets/lambda.png) Greeting AWS Lambda Function
 
+![](/assets/image1.png)
+
+Find details in [https://kenanhancer.com/2023/06/30/how-to-create-aws-lambda-function-with-dotnet-cli-templates/](https://kenanhancer.com/2023/06/30/how-to-create-aws-lambda-function-with-dotnet-cli-templates/)
+
 ## Requirements
 
 - [AWS CLI](https://aws.amazon.com/cli/)
